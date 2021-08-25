@@ -1,4 +1,4 @@
 ### Fork-CPP
 
-LeetCode && GeeksOfGeeks solutions.
+LeetCode && GeeksForGeeks solutions.
 
