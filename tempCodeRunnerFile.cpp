@@ -1,1 +1,2 @@
- v.push_back(dec_value);
+n];
+	for(i=0;

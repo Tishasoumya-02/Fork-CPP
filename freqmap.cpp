@@ -4,6 +4,7 @@ int main()
 {
 	int n,i;
 	cout<<"Enter the number of elements"<<endl;
+	cin>>n;
 	int arr[n];
 	for(i=0;i<n;i++)
 	{

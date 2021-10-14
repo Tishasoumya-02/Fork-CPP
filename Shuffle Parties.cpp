@@ -17,15 +17,15 @@ int func(int a[], int n){
 int main()
 {
 	int t,i,r=0,maxs=0;
-	std::cin>>t;
+	scanf("%d",t);
 	while(t--)
 	{
 		int n;
-		std::cin>>n;
+	scanf("%d",n);
 		int a[n];
 		for(i=0;i<n;i++	)
 		{
-			std::cin>>a[i];
+			scanf("%d",a[i]);
 		}
 		maxs=0;
 		 do{
@@ -34,7 +34,7 @@ int main()
        
     }while(next_permutation(a, a+n)); //Generate next permutation till it is not lexicographically largest
     
-std::cout<<maxs<<std::endl;
+printf("%d\n",maxs);
 
 }
 
