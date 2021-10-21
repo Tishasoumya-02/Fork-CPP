@@ -1,9 +1,9 @@
 //Basic Euclidean Algorithm for GCD 
 //The algorithm is based on the below facts. 
 //
-//If we subtract a smaller number from a larger (we reduce a larger number), GCD doesn’t change. So if we keep subtracting repeatedly the larger of two, we end up with GCD.
+//If we subtract a smaller number from a larger (we reduce a larger number), GCD doesnï¿½t change. So if we keep subtracting repeatedly the larger of two, we end up with GCD.
 //Now instead of subtraction, if we divide the smaller number, the algorithm stops when we find remainder 0.
-//Below is a recursive function to evaluate gcd using Euclid’s algorithm. 
+//Below is a recursive function to evaluate gcd using Euclidï¿½s algorithm. 
 
 #include<bits/stdc++.h>
 using namespace std;
